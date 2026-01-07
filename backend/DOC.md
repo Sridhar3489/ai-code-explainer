@@ -1,0 +1,4 @@
+- `npm init -y`
+- `npx tsc --init`
+- `npm install express`
+- `npm install @types/express`
